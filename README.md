@@ -55,6 +55,16 @@ O objetivo é compreender como o estabelecimento de conexões TCP funciona na pr
 
 
 
+
+
+
+
+
+
+
+
+
+
 # ◈ HTTP CLIENT FROM SCRATCH
 
 ### HTTP Protocol · Raw Sockets · Python Networking
